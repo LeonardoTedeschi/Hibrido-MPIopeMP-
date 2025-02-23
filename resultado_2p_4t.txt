@@ -1,0 +1,9 @@
+=================================
+Estatísticas de Desempenho:
+• Vértices: 10000
+• Arestas: 10000
+• Processos MPI: 2
+• Threads por processo: 4
+• Tempo computação paralela: 431.23 s
+• Tempo total: 431.41 s
+=================================
